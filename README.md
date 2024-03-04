@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikeshmmf" alt="rishikeshmmf" /></a> </p>
 
-- 🌱 I’m currently learning **Selenium,flask amd wen development**
+- 🌱 I’m currently learning **Selenium,flask amd web development**
 
 - 🤝 I’m looking for help with **python**
 
